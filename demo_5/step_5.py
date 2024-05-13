@@ -10,4 +10,3 @@ cv2.namedWindow('rama', cv2.WINDOW_AUTOSIZE)
 cv2.imshow('rama', new_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
