@@ -4,9 +4,11 @@ import cv2
 from danila.danila import Danila
 from data.result.word_compare_result import Word_compare_result
 
-dir_path = 'autotests_dataset/begickaya'
-test_results = 'autotests/results/1_begickaya'
-str1 = 'danila-v2-bejickaya'
+version = 'v1'
+prod = 'begickaya'
+dir_path = 'autotests_dataset/' + prod
+test_results = 'autotests/results/' + version + '_' + prod + '.txt'
+str1 = 'danila_' + version + '_' + prod
 danila = Danila(1,'yolov5')
 label_dir_path = dir_path + '/' + 'labels'
 image_dir_path = dir_path + '/' + 'images'
@@ -75,8 +77,8 @@ for image_name in image_dir:
     for key in res.keys():
         counts[key][res[key]] += 1
     new_lines.append(str(n) + '. ' + image_name + '\n')
-    new_lines.append(str(result))
-    new_lines.append(str(label))
+    new_lines.append(str(result) + '\n')
+    new_lines.append(str(label) + '\n')
     print(str(n) + '. ' + image_name + '\n')
     print(result)
     print(label)
