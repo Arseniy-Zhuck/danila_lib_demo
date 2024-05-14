@@ -5,7 +5,7 @@ from danila.danila import Danila
 from data.result.word_compare_result import Word_compare_result
 v = 3
 version = 'v' + str(v)
-prod = 'begickaya'
+prod = 'ruzhimmash'
 dir_path = 'autotests_dataset/' + prod
 test_results = 'autotests/results/' + version + '_' + prod + '.txt'
 str1 = 'danila_' + version + '_' + prod

@@ -2,7 +2,7 @@ import cv2
 
 from danila.danila import Danila
 
-img_path = 'demo/WhatsApp Image 2023-05-23 at 07.34.17 (1).jpeg'
+img_path = 'demo/example.jpeg'
 img = cv2.imread(img_path)
 danila = Danila(3,'yolov5')
 res = danila.rama_classify(img)
