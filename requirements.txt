@@ -8,7 +8,7 @@ colorama==0.4.6
 contourpy==1.2.0
 cycler==0.12.1
 danila==1.0.0
-danila-lib==1.4.1
+danila-lib==1.4.3
 docutils==0.21.1
 easyocr==1.7.1
 filelock==3.13.1

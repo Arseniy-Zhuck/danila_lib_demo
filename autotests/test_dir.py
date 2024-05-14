@@ -3,7 +3,7 @@ import json
 import cv2
 from danila.danila import Danila
 from data.result.word_compare_result import Word_compare_result
-v = 2
+v = 3
 version = 'v' + str(v)
 prod = 'begickaya'
 dir_path = 'autotests_dataset/' + prod
