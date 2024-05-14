@@ -3,13 +3,13 @@ import json
 import cv2
 from danila.danila import Danila
 from data.result.word_compare_result import Word_compare_result
-
-version = 'v1'
-prod = 'ruzhimmash'
+v = 2
+version = 'v' + str(v)
+prod = 'begickaya'
 dir_path = 'autotests_dataset/' + prod
 test_results = 'autotests/results/' + version + '_' + prod + '.txt'
 str1 = 'danila_' + version + '_' + prod
-danila = Danila(1,'yolov5')
+danila = Danila(v,'yolov5')
 label_dir_path = dir_path + '/' + 'labels'
 image_dir_path = dir_path + '/' + 'images'
 image_dir = os.listdir(image_dir_path)
