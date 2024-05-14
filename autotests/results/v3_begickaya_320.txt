@@ -1,0 +1,152 @@
+danila_v3_begickaya1. WhatsApp Image 2023-05-20 at 09.34.51.jpeg
+{'number': '3129', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '312992', 'year': '23'}
+2. WhatsApp Image 2023-05-20 at 09.34.52 (1).jpeg
+{'number': '3210', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313210', 'year': '23'}
+3. WhatsApp Image 2023-05-20 at 09.34.52.jpeg
+{'number': '3131', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313183', 'year': '23'}
+4. WhatsApp Image 2023-05-20 at 09.34.53 (1).jpeg
+{'number': '313257', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313257', 'year': '23'}
+5. WhatsApp Image 2023-05-20 at 09.34.53.jpeg
+{'number': '31329', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313296', 'year': '23'}
+6. WhatsApp Image 2023-05-20 at 09.34.54.jpeg
+{'number': '3132', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313271', 'year': '23'}
+7. WhatsApp Image 2023-05-20 at 09.35.02.jpeg
+{'number': '133385', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313385', 'year': '23'}
+8. WhatsApp Image 2023-05-20 at 09.35.03 (2).jpeg
+{'number': '31311', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313113', 'year': '23'}
+9. WhatsApp Image 2023-05-20 at 09.35.04 (1).jpeg
+{'number': '', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313406', 'year': '23'}
+10. WhatsApp Image 2023-05-20 at 09.35.04 (2).jpeg
+{'number': '3396', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313396', 'year': '23'}
+11. WhatsApp Image 2023-05-20 at 09.35.05.jpeg
+{'number': '', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313266', 'year': '23'}
+12. WhatsApp Image 2023-05-20 at 09.35.06 (1).jpeg
+{'number': '312795', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '312795', 'year': '23'}
+13. WhatsApp Image 2023-05-20 at 09.35.07 (2).jpeg
+{'number': '', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313402', 'year': '23'}
+14. WhatsApp Image 2023-05-20 at 13.49.39 (1).jpeg
+{'number': '156', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313156', 'year': '23'}
+15. WhatsApp Image 2023-05-20 at 13.49.39 (2).jpeg
+{'number': '312702', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '312702', 'year': '23'}
+16. WhatsApp Image 2023-05-20 at 13.49.39 (3).jpeg
+{'number': '', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313445', 'year': '23'}
+17. WhatsApp Image 2023-05-20 at 13.49.39.jpeg
+{'number': '313125', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313125', 'year': '23'}
+18. WhatsApp Image 2023-05-20 at 13.49.40 (1).jpeg
+{'result': 'no_rama'}
+{'prod': '12', 'number': '313383', 'year': '23'}
+19. WhatsApp Image 2023-05-20 at 13.49.40 (2).jpeg
+{'number': '313', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313150', 'year': '23'}
+20. WhatsApp Image 2023-05-20 at 13.49.40.jpeg
+{'number': '313178', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313178', 'year': '23'}
+21. WhatsApp Image 2023-05-20 at 13.49.41.jpeg
+{'number': '', 'prod': '12', 'year': ''}
+{'prod': '12', 'number': '313283', 'year': '23'}
+22. WhatsApp Image 2023-05-23 at 07.33.51 (2).jpeg
+{'number': '31305', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313052', 'year': '23'}
+23. WhatsApp Image 2023-05-23 at 07.33.51 (4).jpeg
+{'number': '313051', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313051', 'year': '23'}
+24. WhatsApp Image 2023-05-23 at 07.33.52 (1).jpeg
+{'number': '313212', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313392', 'year': '23'}
+25. WhatsApp Image 2023-05-23 at 07.33.52 (3).jpeg
+{'number': '30449', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313049', 'year': '23'}
+26. WhatsApp Image 2023-05-23 at 07.33.53 (2).jpeg
+{'number': '34408', 'prod': '12', 'year': '25'}
+{'prod': '12', 'number': '313408', 'year': '23'}
+27. WhatsApp Image 2023-05-23 at 07.33.54 (1).jpeg
+{'number': '22925', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '312925', 'year': '23'}
+28. WhatsApp Image 2023-05-23 at 07.33.55 (2).jpeg
+{'number': '331337', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313371', 'year': '23'}
+29. WhatsApp Image 2023-05-23 at 07.33.55 (3).jpeg
+{'number': '31335', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313355', 'year': '23'}
+30. WhatsApp Image 2023-05-23 at 07.33.57 (1).jpeg
+{'number': '31308', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313088', 'year': '23'}
+31. WhatsApp Image 2023-05-23 at 07.34.00 (1).jpeg
+{'number': '3217', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313217', 'year': '23'}
+32. WhatsApp Image 2023-05-23 at 07.34.00 (2).jpeg
+{'number': '313507', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313507', 'year': '23'}
+33. WhatsApp Image 2023-05-23 at 07.34.00.jpeg
+{'number': '3522', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313522', 'year': '23'}
+34. WhatsApp Image 2023-05-23 at 07.34.01 (1).jpeg
+{'number': '313475', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313475', 'year': '23'}
+35. WhatsApp Image 2023-05-23 at 07.34.01 (2).jpeg
+{'number': '3335', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313335', 'year': '23'}
+36. WhatsApp Image 2023-05-23 at 07.34.01 (3).jpeg
+{'number': '0133', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313513', 'year': '23'}
+37. WhatsApp Image 2023-05-23 at 07.34.01.jpeg
+{'number': '13558', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313558', 'year': '23'}
+38. WhatsApp Image 2023-05-23 at 07.34.15 (1).jpeg
+{'number': '313028', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313028', 'year': '23'}
+39. WhatsApp Image 2023-05-23 at 07.34.15 (2).jpeg
+{'number': '331331', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313316', 'year': '23'}
+40. WhatsApp Image 2023-05-23 at 07.34.15.jpeg
+{'result': 'no_rama'}
+{'prod': '12', 'number': '313324', 'year': '23'}
+41. WhatsApp Image 2023-05-23 at 07.34.16 (1).jpeg
+{'number': '8200', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313200', 'year': '23'}
+42. WhatsApp Image 2023-05-23 at 07.34.16 (2).jpeg
+{'number': '312997', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '312997', 'year': '23'}
+43. WhatsApp Image 2023-05-23 at 07.34.16.jpeg
+{'number': '3133', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313342', 'year': '23'}
+44. WhatsApp Image 2023-05-23 at 07.34.17 (1).jpeg
+{'number': '313319', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313319', 'year': '23'}
+45. WhatsApp Image 2023-05-23 at 07.34.17.jpeg
+{'number': '399333', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '312933', 'year': '23'}
+46. WhatsApp Image 2023-05-23 at 07.34.18.jpeg
+{'number': '31293', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '312935', 'year': '23'}
+47. WhatsApp Image 2023-05-23 at 07.34.19 (1).jpeg
+{'number': '312602', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '312602', 'year': '23'}
+48. WhatsApp Image 2023-05-23 at 07.34.19.jpeg
+{'number': '31306', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313063', 'year': '23'}
+49. WhatsApp Image 2023-05-24 at 06.31.02 (1).jpeg
+{'number': '313665', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313665', 'year': '23'}
+50. WhatsApp Image 2023-05-24 at 06.31.02.jpeg
+{'number': '3136', 'prod': '12', 'year': '23'}
+{'prod': '12', 'number': '313631', 'year': '23'}
+{'whole': {<Word_compare_result.equal: 3>: 13, <Word_compare_result.partial: 2>: 34, <Word_compare_result.none: 0>: 2, <Word_compare_result.wrong: 1>: 1}, 'number': {<Word_compare_result.equal: 3>: 13, <Word_compare_result.partial: 2>: 30, <Word_compare_result.none: 0>: 7, <Word_compare_result.wrong: 1>: 0}, 'year': {<Word_compare_result.equal: 3>: 46, <Word_compare_result.partial: 2>: 1, <Word_compare_result.none: 0>: 3, <Word_compare_result.wrong: 1>: 0}, 'prod': {<Word_compare_result.equal: 3>: 48, <Word_compare_result.partial: 2>: 0, <Word_compare_result.none: 0>: 2, <Word_compare_result.wrong: 1>: 0}}
+{'whole': {<Word_compare_result.equal: 3>: 26.0, <Word_compare_result.partial: 2>: 68.0, <Word_compare_result.none: 0>: 4.0, <Word_compare_result.wrong: 1>: 2.0}, 'number': {<Word_compare_result.equal: 3>: 26.0, <Word_compare_result.partial: 2>: 60.0, <Word_compare_result.none: 0>: 14.000000000000002, <Word_compare_result.wrong: 1>: 0.0}, 'year': {<Word_compare_result.equal: 3>: 92.0, <Word_compare_result.partial: 2>: 2.0, <Word_compare_result.none: 0>: 6.0, <Word_compare_result.wrong: 1>: 0.0}, 'prod': {<Word_compare_result.equal: 3>: 96.0, <Word_compare_result.partial: 2>: 0.0, <Word_compare_result.none: 0>: 4.0, <Word_compare_result.wrong: 1>: 0.0}}
