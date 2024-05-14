@@ -5,7 +5,7 @@ from danila.danila import Danila
 from data.result.word_compare_result import Word_compare_result
 
 version = 'v1'
-prod = 'begickaya'
+prod = 'ruzhimmash'
 dir_path = 'autotests_dataset/' + prod
 test_results = 'autotests/results/' + version + '_' + prod + '.txt'
 str1 = 'danila_' + version + '_' + prod
@@ -30,6 +30,8 @@ def compare_str(str_r, str_l):
 
 def compare(result, label):
     res = {'whole' : Word_compare_result.none, 'number' : Word_compare_result.none, 'prod' : Word_compare_result.none, 'year' : Word_compare_result.none}
+    if result == {'result': 'no_rama'}:
+        return res
     res['number'] = compare_str(result['number'], label['number'])
     res['prod'] = compare_str(result['prod'], label['prod'])
     res['year'] = compare_str(result['year'], label['year'])
