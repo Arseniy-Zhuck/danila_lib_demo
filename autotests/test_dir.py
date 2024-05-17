@@ -3,15 +3,15 @@ import json
 import cv2
 from danila.danila import Danila
 from data.result.word_compare_result import Word_compare_result
-sizes = [320, 384, 512,640, 768, 1024]
+sizes = [512]
 for size in sizes:
-    v = 3
+    v = 4
     version = 'v' + str(v)
-    prod = 'ruzhimmash'
+    prod = 'begickaya'
     dir_path = 'autotests_dataset/' + prod
     test_results = 'autotests/results/' + version + '_' + prod + '_' + str(size) + '.txt'
     str1 = 'danila_' + version + '_' + prod
-    danila = Danila(v,'yolov5')
+    danila = Danila(3,'yolov5')
     label_dir_path = dir_path + '/' + 'labels'
     image_dir_path = dir_path + '/' + 'images'
     image_dir = os.listdir(image_dir_path)
