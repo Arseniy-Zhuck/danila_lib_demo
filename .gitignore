@@ -4,3 +4,16 @@
 /autotests_dataset/
 /autotests_dataset/begickaya/
 /autotests_dataset/ruzhimmash/
+/prod_classify.pt
+/prod_classify.zip
+/rama_no_spring_begickaya_text_detect_weights.pt
+/rama_no_spring_begickaya_text_detect_weights.zip
+/rama_no_spring_bejickaya_text_detect_weights.zip
+/rama_no_spring_detect_weights.pt
+/rama_no_spring_detect_weights.zip
+/rama_spring_detect_weights.pt
+/rama_spring_detect_weights.zip
+/rama_spring_ruzhimmash_text_detect_weights.pt
+/rama_spring_ruzhimmash_text_detect_weights.zip
+/text_recognize_yolo.pt
+/text_recognize_yolo.zip
