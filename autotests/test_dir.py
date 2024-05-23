@@ -8,11 +8,11 @@ prods = ['begickaya', 'ruzhimmash']
 for prod in prods:
     for size in sizes:
         v = 4
-        version = 'v161'
+        version = 'v176'
         dir_path = 'autotests_dataset/' + prod
         test_results = 'autotests/results/' + version + '_' + prod + '_' + str(size) + '.txt'
         str1 = 'danila_' + version + '_' + prod
-        danila = Danila(4,'yolov5')
+        danila = Danila(v,'yolov5')
         label_dir_path = dir_path + '/' + 'labels'
         image_dir_path = dir_path + '/' + 'images'
         image_dir = os.listdir(image_dir_path)
