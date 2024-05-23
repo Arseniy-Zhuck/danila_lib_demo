@@ -82,11 +82,11 @@ for prod in prods:
             for key in res.keys():
                 counts[key][res[key]] += 1
             new_lines.append(str(n) + '. ' + image_name + '\n')
-            new_lines.append(str(result) + '\n')
-            new_lines.append(str(label) + '\n')
+            new_lines.append('result ' + str(result) + '\n')
+            new_lines.append('label ' + str(label) + '\n')
             print(str(n) + '. ' + image_name + '\n')
-            print(result)
-            print(label)
+            print('result ' + str(result))
+            print('label ' + str(label))
         for key in counts.keys():
             for key1 in counts[key].keys():
                 per_cents[key][key1] = round(counts[key][key1] / float(n), 3) * 100

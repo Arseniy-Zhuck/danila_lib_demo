@@ -1,302 +1,302 @@
 danila_v176_ruzhimmash1. 5028.jpeg
-{'number': '29923', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '29923', 'year': '23'}
+result {'number': '29923', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '29923', 'year': '23'}
 2. 5029.jpeg
-{'number': '29951', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '29951', 'year': '23'}
+result {'number': '29951', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '29951', 'year': '23'}
 3. 5030.jpeg
-{'number': '35844', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35844', 'year': '23'}
+result {'number': '35844', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35844', 'year': '23'}
 4. 5031.jpeg
-{'result': 'no_rama'}
-{'prod': '1275', 'number': '32562', 'year': '23'}
+result {'result': 'no_rama'}
+label {'prod': '1275', 'number': '32562', 'year': '23'}
 5. 5032.jpeg
-{'number': '35354', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35354', 'year': '23'}
+result {'number': '35354', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35354', 'year': '23'}
 6. 5033.jpeg
-{'number': '35676', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35676', 'year': '23'}
+result {'number': '35676', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35676', 'year': '23'}
 7. 5034.jpeg
-{'number': '36309', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '36309', 'year': '23'}
+result {'number': '36309', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '36309', 'year': '23'}
 8. 5035.jpeg
-{'number': '32524', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32524', 'year': '23'}
+result {'number': '32524', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32524', 'year': '23'}
 9. 5036.jpeg
-{'number': '33647', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '33647', 'year': '23'}
+result {'number': '33647', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '33647', 'year': '23'}
 10. 5037.jpeg
-{'number': '36488', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '36488', 'year': '23'}
+result {'number': '36488', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '36488', 'year': '23'}
 11. 5038.jpeg
-{'number': '36591', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '36591', 'year': '23'}
+result {'number': '36591', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '36591', 'year': '23'}
 12. 5039.jpeg
-{'number': '36412', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '36412', 'year': '23'}
+result {'number': '36412', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '36412', 'year': '23'}
 13. 5040.jpeg
-{'number': '35808', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35808', 'year': '23'}
+result {'number': '35808', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35808', 'year': '23'}
 14. 5041.jpeg
-{'number': '34863', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '34863', 'year': '23'}
+result {'number': '34863', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '34863', 'year': '23'}
 15. 5042.jpeg
-{'number': '29836', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '29836', 'year': '23'}
+result {'number': '29836', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '29836', 'year': '23'}
 16. 5043.jpeg
-{'number': '35130', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35130', 'year': '23'}
+result {'number': '35130', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35130', 'year': '23'}
 17. 5044.jpeg
-{'number': '29637', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '29637', 'year': '23'}
+result {'number': '29637', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '29637', 'year': '23'}
 18. 5045.jpeg
-{'number': '35428', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35428', 'year': '23'}
+result {'number': '35428', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35428', 'year': '23'}
 19. 5046.jpeg
-{'number': '34434', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '34434', 'year': '23'}
+result {'number': '34434', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '34434', 'year': '23'}
 20. 5047.jpeg
-{'number': '36181', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '36161', 'year': '23'}
+result {'number': '36181', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '36161', 'year': '23'}
 21. 5048.jpeg
-{'number': '36574', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '36574', 'year': '23'}
+result {'number': '36574', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '36574', 'year': '23'}
 22. 5050.jpeg
-{'number': '34741', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '34741', 'year': '23'}
+result {'number': '34741', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '34741', 'year': '23'}
 23. 5051.jpeg
-{'number': '34930', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '34930', 'year': '23'}
+result {'number': '34930', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '34930', 'year': '23'}
 24. 5052.jpeg
-{'number': '00004', 'prod': '1275', 'year': '19'}
-{'prod': '1275', 'number': '00004', 'year': '19'}
+result {'number': '00004', 'prod': '1275', 'year': '19'}
+label {'prod': '1275', 'number': '00004', 'year': '19'}
 25. 5053.jpeg
-{'number': '29637', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '29637', 'year': '23'}
+result {'number': '29637', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '29637', 'year': '23'}
 26. 5054.jpeg
-{'number': '35215', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35215', 'year': '23'}
+result {'number': '35215', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35215', 'year': '23'}
 27. 5055.jpeg
-{'number': '41741', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '41741', 'year': '22'}
+result {'number': '41741', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '41741', 'year': '22'}
 28. 5056.jpeg
-{'number': '35542', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35542', 'year': '23'}
+result {'number': '35542', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35542', 'year': '23'}
 29. 5057.jpeg
-{'number': '00042', 'prod': '1275', 'year': '22'}
-{'prod': '1275', 'number': '00042', 'year': '22'}
+result {'number': '00042', 'prod': '1275', 'year': '22'}
+label {'prod': '1275', 'number': '00042', 'year': '22'}
 30. 5058.jpeg
-{'number': '21624', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '21624', 'year': '23'}
+result {'number': '21624', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '21624', 'year': '23'}
 31. 5059.jpeg
-{'number': '35319', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35319', 'year': '23'}
+result {'number': '35319', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35319', 'year': '23'}
 32. 5060.jpeg
-{'number': '29883', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '29883', 'year': '23'}
+result {'number': '29883', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '29883', 'year': '23'}
 33. 5061.jpeg
-{'number': '36699', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '36699', 'year': '23'}
+result {'number': '36699', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '36699', 'year': '23'}
 34. 5062.jpeg
-{'number': '34863', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '34863', 'year': '23'}
+result {'number': '34863', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '34863', 'year': '23'}
 35. 5063.jpeg
-{'number': '30345', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '30345', 'year': '23'}
+result {'number': '30345', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '30345', 'year': '23'}
 36. 5064.jpeg
-{'number': '30350', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '30350', 'year': '23'}
+result {'number': '30350', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '30350', 'year': '23'}
 37. 5065.jpeg
-{'number': '35893', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35896', 'year': '23'}
+result {'number': '35893', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35896', 'year': '23'}
 38. 5066.jpeg
-{'number': '34554', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '34554', 'year': '23'}
+result {'number': '34554', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '34554', 'year': '23'}
 39. 5067.jpeg
-{'number': '34915', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '34915', 'year': '23'}
+result {'number': '34915', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '34915', 'year': '23'}
 40. 5068.jpeg
-{'number': '35979', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35979', 'year': '23'}
+result {'number': '35979', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35979', 'year': '23'}
 41. 5069.jpeg
-{'number': '35909', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35909', 'year': '23'}
+result {'number': '35909', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35909', 'year': '23'}
 42. 5070.jpeg
-{'number': '35999', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35999', 'year': '23'}
+result {'number': '35999', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35999', 'year': '23'}
 43. 5071.jpeg
-{'number': '35050', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35050', 'year': '23'}
+result {'number': '35050', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35050', 'year': '23'}
 44. 5072.jpeg
-{'number': '35031', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35031', 'year': '23'}
+result {'number': '35031', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35031', 'year': '23'}
 45. 5073.jpeg
-{'number': '30248', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '30248', 'year': '23'}
+result {'number': '30248', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '30248', 'year': '23'}
 46. 5074.jpeg
-{'number': '35909', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35909', 'year': '23'}
+result {'number': '35909', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35909', 'year': '23'}
 47. 5075.jpeg
-{'number': '34520', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '34520', 'year': '23'}
+result {'number': '34520', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '34520', 'year': '23'}
 48. 5076.jpeg
-{'number': '35296', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35296', 'year': '23'}
+result {'number': '35296', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35296', 'year': '23'}
 49. 5077.jpeg
-{'number': '36141', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '36141', 'year': '23'}
+result {'number': '36141', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '36141', 'year': '23'}
 50. 5078.jpeg
-{'number': '35564', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '35564', 'year': '23'}
+result {'number': '35564', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '35564', 'year': '23'}
 51. WhatsApp Image 2023-04-12 at 16.19.05 (2).jpeg
-{'number': '31313', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31313', 'year': '23'}
+result {'number': '31313', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31313', 'year': '23'}
 52. WhatsApp Image 2023-04-12 at 16.19.05.jpeg
-{'number': '30766', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '30766', 'year': '23'}
+result {'number': '30766', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '30766', 'year': '23'}
 53. WhatsApp Image 2023-04-12 at 16.19.06 (1).jpeg
-{'number': '50644', 'prod': '1275', 'year': '22'}
-{'prod': '1275', 'number': '50644', 'year': '22'}
+result {'number': '50644', 'prod': '1275', 'year': '22'}
+label {'prod': '1275', 'number': '50644', 'year': '22'}
 54. WhatsApp Image 2023-04-12 at 16.19.06.jpeg
-{'number': '30965', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '30965', 'year': '23'}
+result {'number': '30965', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '30965', 'year': '23'}
 55. WhatsApp Image 2023-04-12 at 16.19.07.jpeg
-{'number': '50651', 'prod': '1275', 'year': '22'}
-{'prod': '1275', 'number': '50651', 'year': '22'}
+result {'number': '50651', 'prod': '1275', 'year': '22'}
+label {'prod': '1275', 'number': '50651', 'year': '22'}
 56. WhatsApp Image 2023-04-12 at 16.19.08 (1).jpeg
-{'number': '59879', 'prod': '1275', 'year': '22'}
-{'prod': '1275', 'number': '59879', 'year': '22'}
+result {'number': '59879', 'prod': '1275', 'year': '22'}
+label {'prod': '1275', 'number': '59879', 'year': '22'}
 57. WhatsApp Image 2023-04-12 at 16.19.10.jpeg
-{'number': '31256', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31256', 'year': '23'}
+result {'number': '31256', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31256', 'year': '23'}
 58. WhatsApp Image 2023-04-12 at 16.19.11 (1).jpeg
-{'number': '32308', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32308', 'year': '23'}
+result {'number': '32308', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32308', 'year': '23'}
 59. WhatsApp Image 2023-04-12 at 16.19.11 (2).jpeg
-{'number': '31114', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31114', 'year': '23'}
+result {'number': '31114', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31114', 'year': '23'}
 60. WhatsApp Image 2023-04-12 at 16.19.11.jpeg
-{'number': '31411', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31411', 'year': '23'}
+result {'number': '31411', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31411', 'year': '23'}
 61. WhatsApp Image 2023-04-12 at 16.19.12 (1).jpeg
-{'number': '32271', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32271', 'year': '23'}
+result {'number': '32271', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32271', 'year': '23'}
 62. WhatsApp Image 2023-04-12 at 16.19.12.jpeg
-{'number': '31777', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31777', 'year': '23'}
+result {'number': '31777', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31777', 'year': '23'}
 63. WhatsApp Image 2023-04-12 at 16.19.13 (1).jpeg
-{'number': '32503', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32503', 'year': '23'}
+result {'number': '32503', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32503', 'year': '23'}
 64. WhatsApp Image 2023-04-12 at 16.19.13 (2).jpeg
-{'number': '32523', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32523', 'year': '23'}
+result {'number': '32523', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32523', 'year': '23'}
 65. WhatsApp Image 2023-04-12 at 16.19.13 (3).jpeg
-{'number': '32606', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32606', 'year': '23'}
+result {'number': '32606', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32606', 'year': '23'}
 66. WhatsApp Image 2023-04-12 at 16.19.13.jpeg
-{'number': '31698', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31698', 'year': '23'}
+result {'number': '31698', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31698', 'year': '23'}
 67. WhatsApp Image 2023-04-12 at 16.19.14 (1).jpeg
-{'number': '32349', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32349', 'year': '23'}
+result {'number': '32349', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32349', 'year': '23'}
 68. WhatsApp Image 2023-04-12 at 16.19.14 (2).jpeg
-{'number': '32483', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32493', 'year': '23'}
+result {'number': '32483', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32493', 'year': '23'}
 69. WhatsApp Image 2023-04-12 at 16.19.14.jpeg
-{'number': '32131', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32131', 'year': '23'}
+result {'number': '32131', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32131', 'year': '23'}
 70. WhatsApp Image 2023-04-12 at 16.19.15 (1).jpeg
-{'number': '31282', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31262', 'year': '23'}
+result {'number': '31282', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31262', 'year': '23'}
 71. WhatsApp Image 2023-04-12 at 16.19.15 (2).jpeg
-{'number': '31206', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31206', 'year': '23'}
+result {'number': '31206', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31206', 'year': '23'}
 72. WhatsApp Image 2023-04-12 at 16.19.15.jpeg
-{'number': '32126', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32126', 'year': '23'}
+result {'number': '32126', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32126', 'year': '23'}
 73. WhatsApp Image 2023-04-12 at 16.19.16 (1).jpeg
-{'number': '31840', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31840', 'year': '23'}
+result {'number': '31840', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31840', 'year': '23'}
 74. WhatsApp Image 2023-04-12 at 16.19.16.jpeg
-{'number': '59759', 'prod': '1275', 'year': '22'}
-{'prod': '1275', 'number': '59759', 'year': '22'}
+result {'number': '59759', 'prod': '1275', 'year': '22'}
+label {'prod': '1275', 'number': '59759', 'year': '22'}
 75. WhatsApp Image 2023-04-12 at 16.19.17 (1).jpeg
-{'number': '32014', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32014', 'year': '23'}
+result {'number': '32014', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32014', 'year': '23'}
 76. WhatsApp Image 2023-04-12 at 16.19.17 (2).jpeg
-{'number': '32213', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32213', 'year': '23'}
+result {'number': '32213', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32213', 'year': '23'}
 77. WhatsApp Image 2023-04-12 at 16.19.18 (1).jpeg
-{'number': '80011', 'prod': '1275', 'year': '22'}
-{'prod': '1275', 'number': '60011', 'year': '22'}
+result {'number': '80011', 'prod': '1275', 'year': '22'}
+label {'prod': '1275', 'number': '60011', 'year': '22'}
 78. WhatsApp Image 2023-04-12 at 16.19.18 (2).jpeg
-{'number': '31513', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31513', 'year': '23'}
+result {'number': '31513', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31513', 'year': '23'}
 79. WhatsApp Image 2023-04-12 at 16.19.19 (1).jpeg
-{'number': '32382', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32382', 'year': '23'}
+result {'number': '32382', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32382', 'year': '23'}
 80. WhatsApp Image 2023-04-13 at 11.16.21.jpeg
-{'number': '32380', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32380', 'year': '23'}
+result {'number': '32380', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32380', 'year': '23'}
 81. WhatsApp Image 2023-04-13 at 11.16.22 (1).jpeg
-{'number': '31302', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31302', 'year': '23'}
+result {'number': '31302', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31302', 'year': '23'}
 82. WhatsApp Image 2023-04-13 at 11.16.22 (2).jpeg
-{'number': '32591', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32591', 'year': '23'}
+result {'number': '32591', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32591', 'year': '23'}
 83. WhatsApp Image 2023-04-13 at 11.16.22.jpeg
-{'number': '32517', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32517', 'year': '23'}
+result {'number': '32517', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32517', 'year': '23'}
 84. WhatsApp Image 2023-04-13 at 11.16.23 (1).jpeg
-{'number': '32591', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32591', 'year': '23'}
+result {'number': '32591', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32591', 'year': '23'}
 85. WhatsApp Image 2023-04-13 at 11.16.23.jpeg
-{'number': '29225', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '29225', 'year': '23'}
+result {'number': '29225', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '29225', 'year': '23'}
 86. WhatsApp Image 2023-04-13 at 11.16.24 (1).jpeg
-{'number': '32352', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32352', 'year': '23'}
+result {'number': '32352', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32352', 'year': '23'}
 87. WhatsApp Image 2023-04-13 at 11.16.24 (2).jpeg
-{'number': '31186', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31186', 'year': '23'}
+result {'number': '31186', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31186', 'year': '23'}
 88. WhatsApp Image 2023-04-13 at 11.16.24.jpeg
-{'number': '31968', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31968', 'year': '23'}
+result {'number': '31968', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31968', 'year': '23'}
 89. WhatsApp Image 2023-04-13 at 11.16.25 (1).jpeg
-{'number': '31017', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31017', 'year': '23'}
+result {'number': '31017', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31017', 'year': '23'}
 90. WhatsApp Image 2023-04-13 at 11.16.25.jpeg
-{'number': '32439', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32439', 'year': '23'}
+result {'number': '32439', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32439', 'year': '23'}
 91. WhatsApp Image 2023-04-13 at 15.22.43 (2).jpeg
-{'number': '31932', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31932', 'year': '23'}
+result {'number': '31932', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31932', 'year': '23'}
 92. WhatsApp Image 2023-04-13 at 15.22.44 (2).jpeg
-{'number': '32285', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32265', 'year': '23'}
+result {'number': '32285', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32265', 'year': '23'}
 93. WhatsApp Image 2023-04-13 at 15.22.44 (3).jpeg
-{'number': '32363', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32363', 'year': '23'}
+result {'number': '32363', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32363', 'year': '23'}
 94. WhatsApp Image 2023-04-13 at 15.22.45 (2).jpeg
-{'number': '20479', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '20479', 'year': '23'}
+result {'number': '20479', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '20479', 'year': '23'}
 95. WhatsApp Image 2023-04-13 at 15.22.45.jpeg
-{'number': '32292', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32292', 'year': '23'}
+result {'number': '32292', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32292', 'year': '23'}
 96. WhatsApp Image 2023-04-14 at 15.33.47.jpeg
-{'number': '32257', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32257', 'year': '23'}
+result {'number': '32257', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32257', 'year': '23'}
 97. WhatsApp Image 2023-04-14 at 15.33.48 (1).jpeg
-{'number': '32882', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32882', 'year': '23'}
+result {'number': '32882', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32882', 'year': '23'}
 98. WhatsApp Image 2023-04-14 at 15.33.48.jpeg
-{'number': '32348', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '32346', 'year': '23'}
+result {'number': '32348', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '32346', 'year': '23'}
 99. WhatsApp Image 2023-04-14 at 15.33.49 (1).jpeg
-{'number': '31465', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31465', 'year': '23'}
+result {'number': '31465', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31465', 'year': '23'}
 100. WhatsApp Image 2023-04-14 at 15.33.49 (2).jpeg
-{'number': '31369', 'prod': '1275', 'year': '23'}
-{'prod': '1275', 'number': '31369', 'year': '23'}
+result {'number': '31369', 'prod': '1275', 'year': '23'}
+label {'prod': '1275', 'number': '31369', 'year': '23'}
 {'whole': {<Word_compare_result.equal: 3>: 91, <Word_compare_result.partial: 2>: 8, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}, 'number': {<Word_compare_result.equal: 3>: 92, <Word_compare_result.partial: 2>: 7, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}, 'year': {<Word_compare_result.equal: 3>: 98, <Word_compare_result.partial: 2>: 1, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}, 'prod': {<Word_compare_result.equal: 3>: 99, <Word_compare_result.partial: 2>: 0, <Word_compare_result.none: 0>: 1, <Word_compare_result.wrong: 1>: 0}}
 {'whole': {<Word_compare_result.equal: 3>: 91.0, <Word_compare_result.partial: 2>: 8.0, <Word_compare_result.none: 0>: 1.0, <Word_compare_result.wrong: 1>: 0.0}, 'number': {<Word_compare_result.equal: 3>: 92.0, <Word_compare_result.partial: 2>: 7.000000000000001, <Word_compare_result.none: 0>: 1.0, <Word_compare_result.wrong: 1>: 0.0}, 'year': {<Word_compare_result.equal: 3>: 98.0, <Word_compare_result.partial: 2>: 1.0, <Word_compare_result.none: 0>: 1.0, <Word_compare_result.wrong: 1>: 0.0}, 'prod': {<Word_compare_result.equal: 3>: 99.0, <Word_compare_result.partial: 2>: 0.0, <Word_compare_result.none: 0>: 1.0, <Word_compare_result.wrong: 1>: 0.0}}
