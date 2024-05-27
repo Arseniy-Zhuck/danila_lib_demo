@@ -8,7 +8,7 @@ prods = ['begickaya', 'ruzhimmash']
 for prod in prods:
     for size in sizes:
         v = 4
-        version = 'v176'
+        version = 'v178'
         dir_path = 'autotests_dataset/' + prod
         test_results = 'autotests/results/' + version + '_' + prod + '_' + str(size) + '.txt'
         str1 = 'danila_' + version + '_' + prod
