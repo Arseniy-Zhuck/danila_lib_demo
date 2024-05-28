@@ -8,7 +8,7 @@ prods = ['begickaya', 'ruzhimmash']
 for prod in prods:
     for size in sizes:
         v = 4
-        version = 'v180'
+        version = 'v182'
         dir_path = 'autotests_dataset/' + prod
         test_results = 'autotests/results/' + version + '_' + prod + '_' + str(size) + '.txt'
         str1 = 'danila_' + version + '_' + prod
@@ -91,10 +91,12 @@ for prod in prods:
                 counts[key][res[key]] += 1
             x = json.dumps(result_conf, default=lambda x: x.__dict__)
             new_lines.append(str(n) + '. ' + image_name + '\n')
+            new_lines.append('res' + str(res) + '\n')
             new_lines.append('conf' + x + '\n')
             new_lines.append('result ' + str(result) + '\n')
             new_lines.append('label ' + str(label) + '\n')
             print(str(n) + '. ' + image_name)
+            print('res' + str(res))
             print('conf' + x)
             print('result ' + str(result))
             print('label ' + str(label))

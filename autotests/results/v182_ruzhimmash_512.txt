@@ -1,0 +1,502 @@
+danila_v182_ruzhimmash1. 5028.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.93}, "number": {"text": "29923", "conf": 0.9}, "prod": {"text": "1275", "conf": 0.93}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '29923', 'year': '23'}
+label {'prod': '1275', 'number': '29923', 'year': '23'}
+2. 5029.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.97}, "number": {"text": "29951", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.97}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '1275', 'number': '29951', 'year': '23'}
+label {'prod': '1275', 'number': '29951', 'year': '23'}
+3. 5030.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "35844", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.84}}
+result {'prod': '1275', 'number': '35844', 'year': '23'}
+label {'prod': '1275', 'number': '35844', 'year': '23'}
+4. 5031.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "32562", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.8}}
+result {'prod': '1275', 'number': '32562', 'year': '23'}
+label {'prod': '1275', 'number': '32562', 'year': '23'}
+5. 5032.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.86}, "number": {"text": "35354", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.86}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '35354', 'year': '23'}
+label {'prod': '1275', 'number': '35354', 'year': '23'}
+6. 5033.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.87}, "number": {"text": "35676", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.87}, "year": {"text": "23", "conf": 0.87}}
+result {'prod': '1275', 'number': '35676', 'year': '23'}
+label {'prod': '1275', 'number': '35676', 'year': '23'}
+7. 5034.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.91}, "number": {"text": "36309", "conf": 0.9}, "prod": {"text": "1275", "conf": 0.91}, "year": {"text": "23", "conf": 0.87}}
+result {'prod': '1275', 'number': '36309', 'year': '23'}
+label {'prod': '1275', 'number': '36309', 'year': '23'}
+8. 5035.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.9}, "number": {"text": "32524", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.9}, "year": {"text": "23", "conf": 0.81}}
+result {'prod': '1275', 'number': '32524', 'year': '23'}
+label {'prod': '1275', 'number': '32524', 'year': '23'}
+9. 5036.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.83}, "number": {"text": "33647", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.83}, "year": {"text": "23", "conf": 0.84}}
+result {'prod': '1275', 'number': '33647', 'year': '23'}
+label {'prod': '1275', 'number': '33647', 'year': '23'}
+10. 5037.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.87}, "number": {"text": "36488", "conf": 0.9}, "prod": {"text": "1275", "conf": 0.87}, "year": {"text": "23", "conf": 0.87}}
+result {'prod': '1275', 'number': '36488', 'year': '23'}
+label {'prod': '1275', 'number': '36488', 'year': '23'}
+11. 5038.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "36591", "conf": 0.85}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "23", "conf": 0.84}}
+result {'prod': '1275', 'number': '36591', 'year': '23'}
+label {'prod': '1275', 'number': '36591', 'year': '23'}
+12. 5039.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.9}, "number": {"text": "36412", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.9}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '36412', 'year': '23'}
+label {'prod': '1275', 'number': '36412', 'year': '23'}
+13. 5040.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.83}, "number": {"text": "35808", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.83}, "year": {"text": "23", "conf": 0.84}}
+result {'prod': '1275', 'number': '35808', 'year': '23'}
+label {'prod': '1275', 'number': '35808', 'year': '23'}
+14. 5041.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.51}, "number": {"text": "34863", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.51}, "year": {"text": "23", "conf": 0.86}}
+result {'prod': '1275', 'number': '34863', 'year': '23'}
+label {'prod': '1275', 'number': '34863', 'year': '23'}
+15. 5042.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.91}, "number": {"text": "29836", "conf": 0.9}, "prod": {"text": "1275", "conf": 0.91}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '1275', 'number': '29836', 'year': '23'}
+label {'prod': '1275', 'number': '29836', 'year': '23'}
+16. 5043.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "35130", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "23", "conf": 0.82}}
+result {'prod': '1275', 'number': '35130', 'year': '23'}
+label {'prod': '1275', 'number': '35130', 'year': '23'}
+17. 5044.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "29637", "conf": 0.86}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.83}}
+result {'prod': '1275', 'number': '29637', 'year': '23'}
+label {'prod': '1275', 'number': '29637', 'year': '23'}
+18. 5045.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "35428", "conf": 0.86}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '35428', 'year': '23'}
+label {'prod': '1275', 'number': '35428', 'year': '23'}
+19. 5046.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "34434", "conf": 0.82}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '34434', 'year': '23'}
+label {'prod': '1275', 'number': '34434', 'year': '23'}
+20. 5047.jpeg
+res{'whole': <Word_compare_result.partial: 2>, 'number': <Word_compare_result.partial: 2>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "36181", "conf": 0.85}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.8}}
+result {'prod': '1275', 'number': '36181', 'year': '23'}
+label {'prod': '1275', 'number': '36161', 'year': '23'}
+21. 5048.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "36574", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.84}}
+result {'prod': '1275', 'number': '36574', 'year': '23'}
+label {'prod': '1275', 'number': '36574', 'year': '23'}
+22. 5050.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "34741", "conf": 0.86}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.86}}
+result {'prod': '1275', 'number': '34741', 'year': '23'}
+label {'prod': '1275', 'number': '34741', 'year': '23'}
+23. 5051.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "34930", "conf": 0.91}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.86}}
+result {'prod': '1275', 'number': '34930', 'year': '23'}
+label {'prod': '1275', 'number': '34930', 'year': '23'}
+24. 5052.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "00004", "conf": 0.92}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "19", "conf": 0.81}}
+result {'prod': '1275', 'number': '00004', 'year': '19'}
+label {'prod': '1275', 'number': '00004', 'year': '19'}
+25. 5053.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.97}, "number": {"text": "29637", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.97}, "year": {"text": "23", "conf": 0.91}}
+result {'prod': '1275', 'number': '29637', 'year': '23'}
+label {'prod': '1275', 'number': '29637', 'year': '23'}
+26. 5054.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "35215", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '35215', 'year': '23'}
+label {'prod': '1275', 'number': '35215', 'year': '23'}
+27. 5055.jpeg
+res{'whole': <Word_compare_result.partial: 2>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.partial: 2>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.92}, "number": {"text": "41741", "conf": 0.83}, "prod": {"text": "1275", "conf": 0.92}, "year": {"text": "23", "conf": 0.25}}
+result {'prod': '1275', 'number': '41741', 'year': '23'}
+label {'prod': '1275', 'number': '41741', 'year': '22'}
+28. 5056.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.89}, "number": {"text": "35542", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.89}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '1275', 'number': '35542', 'year': '23'}
+label {'prod': '1275', 'number': '35542', 'year': '23'}
+29. 5057.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "00042", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "22", "conf": 0.87}}
+result {'prod': '1275', 'number': '00042', 'year': '22'}
+label {'prod': '1275', 'number': '00042', 'year': '22'}
+30. 5058.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.86}, "number": {"text": "21624", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.86}, "year": {"text": "23", "conf": 0.85}}
+result {'prod': '1275', 'number': '21624', 'year': '23'}
+label {'prod': '1275', 'number': '21624', 'year': '23'}
+31. 5059.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.79}, "number": {"text": "35319", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.79}, "year": {"text": "23", "conf": 0.25}}
+result {'prod': '1275', 'number': '35319', 'year': '23'}
+label {'prod': '1275', 'number': '35319', 'year': '23'}
+32. 5060.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.89}, "number": {"text": "29883", "conf": 0.9}, "prod": {"text": "1275", "conf": 0.89}, "year": {"text": "23", "conf": 0.87}}
+result {'prod': '1275', 'number': '29883', 'year': '23'}
+label {'prod': '1275', 'number': '29883', 'year': '23'}
+33. 5061.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.92}, "number": {"text": "36699", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.92}, "year": {"text": "23", "conf": 0.87}}
+result {'prod': '1275', 'number': '36699', 'year': '23'}
+label {'prod': '1275', 'number': '36699', 'year': '23'}
+34. 5062.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.89}, "number": {"text": "34863", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.89}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '34863', 'year': '23'}
+label {'prod': '1275', 'number': '34863', 'year': '23'}
+35. 5063.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.89}, "number": {"text": "30345", "conf": 0.9}, "prod": {"text": "1275", "conf": 0.89}, "year": {"text": "23", "conf": 0.86}}
+result {'prod': '1275', 'number': '30345', 'year': '23'}
+label {'prod': '1275', 'number': '30345', 'year': '23'}
+36. 5064.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.87}, "number": {"text": "30350", "conf": 0.9}, "prod": {"text": "1275", "conf": 0.87}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '30350', 'year': '23'}
+label {'prod': '1275', 'number': '30350', 'year': '23'}
+37. 5065.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.93}, "number": {"text": "35896", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.93}, "year": {"text": "23", "conf": 0.87}}
+result {'prod': '1275', 'number': '35896', 'year': '23'}
+label {'prod': '1275', 'number': '35896', 'year': '23'}
+38. 5066.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.8}, "number": {"text": "34554", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.8}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '34554', 'year': '23'}
+label {'prod': '1275', 'number': '34554', 'year': '23'}
+39. 5067.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.85}, "number": {"text": "34915", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.85}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '34915', 'year': '23'}
+label {'prod': '1275', 'number': '34915', 'year': '23'}
+40. 5068.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.87}, "number": {"text": "35979", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.87}, "year": {"text": "23", "conf": 0.87}}
+result {'prod': '1275', 'number': '35979', 'year': '23'}
+label {'prod': '1275', 'number': '35979', 'year': '23'}
+41. 5069.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.93}, "number": {"text": "35909", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.93}, "year": {"text": "23", "conf": 0.84}}
+result {'prod': '1275', 'number': '35909', 'year': '23'}
+label {'prod': '1275', 'number': '35909', 'year': '23'}
+42. 5070.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.9}, "number": {"text": "35999", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.9}, "year": {"text": "23", "conf": 0.85}}
+result {'prod': '1275', 'number': '35999', 'year': '23'}
+label {'prod': '1275', 'number': '35999', 'year': '23'}
+43. 5071.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.88}, "number": {"text": "35050", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.88}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '1275', 'number': '35050', 'year': '23'}
+label {'prod': '1275', 'number': '35050', 'year': '23'}
+44. 5072.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.81}, "number": {"text": "35031", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.81}, "year": {"text": "23", "conf": 0.78}}
+result {'prod': '1275', 'number': '35031', 'year': '23'}
+label {'prod': '1275', 'number': '35031', 'year': '23'}
+45. 5073.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.86}, "number": {"text": "30248", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.86}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '30248', 'year': '23'}
+label {'prod': '1275', 'number': '30248', 'year': '23'}
+46. 5074.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.93}, "number": {"text": "35909", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.93}, "year": {"text": "23", "conf": 0.84}}
+result {'prod': '1275', 'number': '35909', 'year': '23'}
+label {'prod': '1275', 'number': '35909', 'year': '23'}
+47. 5075.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.7}, "number": {"text": "34520", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.7}, "year": {"text": "23", "conf": 0.82}}
+result {'prod': '1275', 'number': '34520', 'year': '23'}
+label {'prod': '1275', 'number': '34520', 'year': '23'}
+48. 5076.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.93}, "number": {"text": "35296", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.93}, "year": {"text": "23", "conf": 0.86}}
+result {'prod': '1275', 'number': '35296', 'year': '23'}
+label {'prod': '1275', 'number': '35296', 'year': '23'}
+49. 5077.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.84}, "number": {"text": "36141", "conf": 0.84}, "prod": {"text": "1275", "conf": 0.84}, "year": {"text": "23", "conf": 0.83}}
+result {'prod': '1275', 'number': '36141', 'year': '23'}
+label {'prod': '1275', 'number': '36141', 'year': '23'}
+50. 5078.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.92}, "number": {"text": "35564", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.92}, "year": {"text": "23", "conf": 0.86}}
+result {'prod': '1275', 'number': '35564', 'year': '23'}
+label {'prod': '1275', 'number': '35564', 'year': '23'}
+51. WhatsApp Image 2023-04-12 at 16.19.05 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.93}, "number": {"text": "31313", "conf": 0.86}, "prod": {"text": "1275", "conf": 0.93}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '1275', 'number': '31313', 'year': '23'}
+label {'prod': '1275', 'number': '31313', 'year': '23'}
+52. WhatsApp Image 2023-04-12 at 16.19.05.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "30766", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.86}}
+result {'prod': '1275', 'number': '30766', 'year': '23'}
+label {'prod': '1275', 'number': '30766', 'year': '23'}
+53. WhatsApp Image 2023-04-12 at 16.19.06 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.97}, "number": {"text": "50644", "conf": 0.86}, "prod": {"text": "1275", "conf": 0.97}, "year": {"text": "22", "conf": 0.84}}
+result {'prod': '1275', 'number': '50644', 'year': '22'}
+label {'prod': '1275', 'number': '50644', 'year': '22'}
+54. WhatsApp Image 2023-04-12 at 16.19.06.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "30965", "conf": 0.9}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '30965', 'year': '23'}
+label {'prod': '1275', 'number': '30965', 'year': '23'}
+55. WhatsApp Image 2023-04-12 at 16.19.07.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "50651", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "22", "conf": 0.89}}
+result {'prod': '1275', 'number': '50651', 'year': '22'}
+label {'prod': '1275', 'number': '50651', 'year': '22'}
+56. WhatsApp Image 2023-04-12 at 16.19.08 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "59879", "conf": 0.91}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "22", "conf": 0.88}}
+result {'prod': '1275', 'number': '59879', 'year': '22'}
+label {'prod': '1275', 'number': '59879', 'year': '22'}
+57. WhatsApp Image 2023-04-12 at 16.19.10.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "31256", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '31256', 'year': '23'}
+label {'prod': '1275', 'number': '31256', 'year': '23'}
+58. WhatsApp Image 2023-04-12 at 16.19.11 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "32308", "conf": 0.9}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.91}}
+result {'prod': '1275', 'number': '32308', 'year': '23'}
+label {'prod': '1275', 'number': '32308', 'year': '23'}
+59. WhatsApp Image 2023-04-12 at 16.19.11 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "31114", "conf": 0.81}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.81}}
+result {'prod': '1275', 'number': '31114', 'year': '23'}
+label {'prod': '1275', 'number': '31114', 'year': '23'}
+60. WhatsApp Image 2023-04-12 at 16.19.11.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "31411", "conf": 0.81}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '1275', 'number': '31411', 'year': '23'}
+label {'prod': '1275', 'number': '31411', 'year': '23'}
+61. WhatsApp Image 2023-04-12 at 16.19.12 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "32271", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '32271', 'year': '23'}
+label {'prod': '1275', 'number': '32271', 'year': '23'}
+62. WhatsApp Image 2023-04-12 at 16.19.12.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "31777", "conf": 0.84}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.87}}
+result {'prod': '1275', 'number': '31777', 'year': '23'}
+label {'prod': '1275', 'number': '31777', 'year': '23'}
+63. WhatsApp Image 2023-04-12 at 16.19.13 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "32503", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '32503', 'year': '23'}
+label {'prod': '1275', 'number': '32503', 'year': '23'}
+64. WhatsApp Image 2023-04-12 at 16.19.13 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "32523", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '32523', 'year': '23'}
+label {'prod': '1275', 'number': '32523', 'year': '23'}
+65. WhatsApp Image 2023-04-12 at 16.19.13 (3).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "32606", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '1275', 'number': '32606', 'year': '23'}
+label {'prod': '1275', 'number': '32606', 'year': '23'}
+66. WhatsApp Image 2023-04-12 at 16.19.13.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.97}, "number": {"text": "31698", "conf": 0.86}, "prod": {"text": "1275", "conf": 0.97}, "year": {"text": "23", "conf": 0.87}}
+result {'prod': '1275', 'number': '31698', 'year': '23'}
+label {'prod': '1275', 'number': '31698', 'year': '23'}
+67. WhatsApp Image 2023-04-12 at 16.19.14 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.97}, "number": {"text": "32349", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.97}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '32349', 'year': '23'}
+label {'prod': '1275', 'number': '32349', 'year': '23'}
+68. WhatsApp Image 2023-04-12 at 16.19.14 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.91}, "number": {"text": "32493", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.91}, "year": {"text": "23", "conf": 0.85}}
+result {'prod': '1275', 'number': '32493', 'year': '23'}
+label {'prod': '1275', 'number': '32493', 'year': '23'}
+69. WhatsApp Image 2023-04-12 at 16.19.14.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "32131", "conf": 0.85}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.84}}
+result {'prod': '1275', 'number': '32131', 'year': '23'}
+label {'prod': '1275', 'number': '32131', 'year': '23'}
+70. WhatsApp Image 2023-04-12 at 16.19.15 (1).jpeg
+res{'whole': <Word_compare_result.partial: 2>, 'number': <Word_compare_result.partial: 2>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "31282", "conf": 0.73}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.8}}
+result {'prod': '1275', 'number': '31282', 'year': '23'}
+label {'prod': '1275', 'number': '31262', 'year': '23'}
+71. WhatsApp Image 2023-04-12 at 16.19.15 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "31206", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '1275', 'number': '31206', 'year': '23'}
+label {'prod': '1275', 'number': '31206', 'year': '23'}
+72. WhatsApp Image 2023-04-12 at 16.19.15.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.83}, "number": {"text": "32126", "conf": 0.86}, "prod": {"text": "1275", "conf": 0.83}, "year": {"text": "23", "conf": 0.85}}
+result {'prod': '1275', 'number': '32126', 'year': '23'}
+label {'prod': '1275', 'number': '32126', 'year': '23'}
+73. WhatsApp Image 2023-04-12 at 16.19.16 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "31840", "conf": 0.84}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '31840', 'year': '23'}
+label {'prod': '1275', 'number': '31840', 'year': '23'}
+74. WhatsApp Image 2023-04-12 at 16.19.16.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "59759", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "22", "conf": 0.79}}
+result {'prod': '1275', 'number': '59759', 'year': '22'}
+label {'prod': '1275', 'number': '59759', 'year': '22'}
+75. WhatsApp Image 2023-04-12 at 16.19.17 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "32014", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.85}}
+result {'prod': '1275', 'number': '32014', 'year': '23'}
+label {'prod': '1275', 'number': '32014', 'year': '23'}
+76. WhatsApp Image 2023-04-12 at 16.19.17 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "32213", "conf": 0.86}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '32213', 'year': '23'}
+label {'prod': '1275', 'number': '32213', 'year': '23'}
+77. WhatsApp Image 2023-04-12 at 16.19.18 (1).jpeg
+res{'whole': <Word_compare_result.partial: 2>, 'number': <Word_compare_result.partial: 2>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "80011", "conf": 0.79}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "22", "conf": 0.89}}
+result {'prod': '1275', 'number': '80011', 'year': '22'}
+label {'prod': '1275', 'number': '60011', 'year': '22'}
+78. WhatsApp Image 2023-04-12 at 16.19.18 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "31513", "conf": 0.85}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.91}}
+result {'prod': '1275', 'number': '31513', 'year': '23'}
+label {'prod': '1275', 'number': '31513', 'year': '23'}
+79. WhatsApp Image 2023-04-12 at 16.19.19 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "32382", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.85}}
+result {'prod': '1275', 'number': '32382', 'year': '23'}
+label {'prod': '1275', 'number': '32382', 'year': '23'}
+80. WhatsApp Image 2023-04-13 at 11.16.21.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.95}, "number": {"text": "32380", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.95}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '32380', 'year': '23'}
+label {'prod': '1275', 'number': '32380', 'year': '23'}
+81. WhatsApp Image 2023-04-13 at 11.16.22 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "31302", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '31302', 'year': '23'}
+label {'prod': '1275', 'number': '31302', 'year': '23'}
+82. WhatsApp Image 2023-04-13 at 11.16.22 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.92}, "number": {"text": "32591", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.92}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '1275', 'number': '32591', 'year': '23'}
+label {'prod': '1275', 'number': '32591', 'year': '23'}
+83. WhatsApp Image 2023-04-13 at 11.16.22.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.88}, "number": {"text": "32517", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.88}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '1275', 'number': '32517', 'year': '23'}
+label {'prod': '1275', 'number': '32517', 'year': '23'}
+84. WhatsApp Image 2023-04-13 at 11.16.23 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.92}, "number": {"text": "32591", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.92}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '1275', 'number': '32591', 'year': '23'}
+label {'prod': '1275', 'number': '32591', 'year': '23'}
+85. WhatsApp Image 2023-04-13 at 11.16.23.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "29225", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.69}}
+result {'prod': '1275', 'number': '29225', 'year': '23'}
+label {'prod': '1275', 'number': '29225', 'year': '23'}
+86. WhatsApp Image 2023-04-13 at 11.16.24 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.71}, "number": {"text": "32352", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.71}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '1275', 'number': '32352', 'year': '23'}
+label {'prod': '1275', 'number': '32352', 'year': '23'}
+87. WhatsApp Image 2023-04-13 at 11.16.24 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.84}, "number": {"text": "31186", "conf": 0.83}, "prod": {"text": "1275", "conf": 0.84}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '31186', 'year': '23'}
+label {'prod': '1275', 'number': '31186', 'year': '23'}
+88. WhatsApp Image 2023-04-13 at 11.16.24.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "31968", "conf": 0.88}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "23", "conf": 0.86}}
+result {'prod': '1275', 'number': '31968', 'year': '23'}
+label {'prod': '1275', 'number': '31968', 'year': '23'}
+89. WhatsApp Image 2023-04-13 at 11.16.25 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.93}, "number": {"text": "31017", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.93}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '31017', 'year': '23'}
+label {'prod': '1275', 'number': '31017', 'year': '23'}
+90. WhatsApp Image 2023-04-13 at 11.16.25.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.93}, "number": {"text": "32439", "conf": 0.9}, "prod": {"text": "1275", "conf": 0.93}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '32439', 'year': '23'}
+label {'prod': '1275', 'number': '32439', 'year': '23'}
+91. WhatsApp Image 2023-04-13 at 15.22.43 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "31932", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '31932', 'year': '23'}
+label {'prod': '1275', 'number': '31932', 'year': '23'}
+92. WhatsApp Image 2023-04-13 at 15.22.44 (2).jpeg
+res{'whole': <Word_compare_result.partial: 2>, 'number': <Word_compare_result.partial: 2>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.93}, "number": {"text": "32285", "conf": 0.84}, "prod": {"text": "1275", "conf": 0.93}, "year": {"text": "23", "conf": 0.81}}
+result {'prod': '1275', 'number': '32285', 'year': '23'}
+label {'prod': '1275', 'number': '32265', 'year': '23'}
+93. WhatsApp Image 2023-04-13 at 15.22.44 (3).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "32363", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '32363', 'year': '23'}
+label {'prod': '1275', 'number': '32363', 'year': '23'}
+94. WhatsApp Image 2023-04-13 at 15.22.45 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.96}, "number": {"text": "20479", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.96}, "year": {"text": "23", "conf": 0.25}}
+result {'prod': '1275', 'number': '20479', 'year': '23'}
+label {'prod': '1275', 'number': '20479', 'year': '23'}
+95. WhatsApp Image 2023-04-13 at 15.22.45.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.89}, "number": {"text": "32292", "conf": 0.9}, "prod": {"text": "1275", "conf": 0.89}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '32292', 'year': '23'}
+label {'prod': '1275', 'number': '32292', 'year': '23'}
+96. WhatsApp Image 2023-04-14 at 15.33.47.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.92}, "number": {"text": "32257", "conf": 0.87}, "prod": {"text": "1275", "conf": 0.92}, "year": {"text": "23", "conf": 0.83}}
+result {'prod': '1275', 'number': '32257', 'year': '23'}
+label {'prod': '1275', 'number': '32257', 'year': '23'}
+97. WhatsApp Image 2023-04-14 at 15.33.48 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.93}, "number": {"text": "32882", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.93}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '1275', 'number': '32882', 'year': '23'}
+label {'prod': '1275', 'number': '32882', 'year': '23'}
+98. WhatsApp Image 2023-04-14 at 15.33.48.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "32346", "conf": 0.89}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "23", "conf": 0.8}}
+result {'prod': '1275', 'number': '32346', 'year': '23'}
+label {'prod': '1275', 'number': '32346', 'year': '23'}
+99. WhatsApp Image 2023-04-14 at 15.33.49 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.94}, "number": {"text": "31465", "conf": 0.84}, "prod": {"text": "1275", "conf": 0.94}, "year": {"text": "23", "conf": 0.86}}
+result {'prod': '1275', 'number': '31465', 'year': '23'}
+label {'prod': '1275', 'number': '31465', 'year': '23'}
+100. WhatsApp Image 2023-04-14 at 15.33.49 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "ruzhimmash", "conf": 0.93}, "number": {"text": "31369", "conf": 0.82}, "prod": {"text": "1275", "conf": 0.93}, "year": {"text": "23", "conf": 0.87}}
+result {'prod': '1275', 'number': '31369', 'year': '23'}
+label {'prod': '1275', 'number': '31369', 'year': '23'}
+{'whole': {<Word_compare_result.equal: 3>: 95, <Word_compare_result.partial: 2>: 5, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}, 'number': {<Word_compare_result.equal: 3>: 96, <Word_compare_result.partial: 2>: 4, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}, 'year': {<Word_compare_result.equal: 3>: 99, <Word_compare_result.partial: 2>: 1, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}, 'prod': {<Word_compare_result.equal: 3>: 100, <Word_compare_result.partial: 2>: 0, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}}
+{'whole': {<Word_compare_result.equal: 3>: 95.0, <Word_compare_result.partial: 2>: 5.0, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}, 'number': {<Word_compare_result.equal: 3>: 96.0, <Word_compare_result.partial: 2>: 4.0, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}, 'year': {<Word_compare_result.equal: 3>: 99.0, <Word_compare_result.partial: 2>: 1.0, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}, 'prod': {<Word_compare_result.equal: 3>: 100.0, <Word_compare_result.partial: 2>: 0.0, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}}
