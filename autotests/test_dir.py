@@ -8,7 +8,7 @@ prods = ['begickaya', 'ruzhimmash']
 for prod in prods:
     for size in sizes:
         v = 4
-        version = 'v178'
+        version = 'v180'
         dir_path = 'autotests_dataset/' + prod
         test_results = 'autotests/results/' + version + '_' + prod + '_' + str(size) + '.txt'
         str1 = 'danila_' + version + '_' + prod
@@ -73,7 +73,15 @@ for prod in prods:
             img_path = image_dir_path + '/' + image_name
             img = cv2.imread(img_path)
             h, w = img.shape[:2]
-            result = danila.text_recognize(img, size)
+            result_conf = danila.text_recognize(img, size)
+            result = {}
+            if result_conf.detail.text == "no_rama":
+                result = {'result': 'no_rama'}
+            else:
+                result['prod'] = result_conf.prod.text
+                result['number'] = result_conf.number.text
+                result['year'] = result_conf.year.text
+
             label_name = image_name[0:image_name.rfind('.')]
             label_path = label_dir_path + '/' + label_name + '.json'
             with open(label_path) as l:
@@ -81,10 +89,13 @@ for prod in prods:
             res = compare(result, label)
             for key in res.keys():
                 counts[key][res[key]] += 1
+            x = json.dumps(result_conf, default=lambda x: x.__dict__)
             new_lines.append(str(n) + '. ' + image_name + '\n')
+            new_lines.append('conf' + x + '\n')
             new_lines.append('result ' + str(result) + '\n')
             new_lines.append('label ' + str(label) + '\n')
-            print(str(n) + '. ' + image_name + '\n')
+            print(str(n) + '. ' + image_name)
+            print('conf' + x)
             print('result ' + str(result))
             print('label ' + str(label))
         for key in counts.keys():
