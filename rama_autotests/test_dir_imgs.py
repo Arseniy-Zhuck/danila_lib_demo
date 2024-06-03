@@ -10,13 +10,13 @@ for prod in prods:
         v = 4
         version = 'v184'
         dir_path = 'autotests_dataset/' + prod
-        test_results = 'autotests/results/' + version + '_' + prod + '_' + str(size) + '.txt'
+        test_results = 'rama_autotests/results/' + version + '_' + prod + '_' + str(size) + '.txt'
         str1 = 'danila_' + version + '_' + prod
         danila = Danila(4, 'yolov5')
         label_dir_path = dir_path + '/' + 'labels'
         image_dir_path = dir_path + '/' + 'images'
         image_dir = os.listdir(image_dir_path)
-        image_dir_res_path = 'autotests/results/' + version + '_' + prod + '_' + str(size)
+        image_dir_res_path = 'rama_autotests/results/' + version + '_' + prod + '_' + str(size)
         os.makedirs(image_dir_res_path, exist_ok=True)
 
         n = 0

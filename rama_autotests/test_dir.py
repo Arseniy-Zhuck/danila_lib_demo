@@ -10,7 +10,7 @@ for prod in prods:
         v = 4
         version = 'v184'
         dir_path = 'autotests_dataset/' + prod
-        test_results = 'autotests/results/' + version + '_' + prod + '_' + str(size) + '.txt'
+        test_results = 'rama_autotests/results/' + version + '_' + prod + '_' + str(size) + '.txt'
         str1 = 'danila_' + version + '_' + prod
         danila = Danila(v,'yolov5')
         label_dir_path = dir_path + '/' + 'labels'
@@ -61,9 +61,9 @@ for prod in prods:
         counts = {'whole' : None, 'number' : None, 'year' : None, 'prod' : None}
         per_cents = {'whole' : None, 'number' : None, 'year' : None, 'prod' : None}
         for key in counts.keys():
-            counts[key] = {Word_compare_result.equal:0,Word_compare_result.partial:0,Word_compare_result.none:0,Word_compare_result.wrong:0}
+            counts[key] = {Word_compare_result.equal : 0, Word_compare_result.partial : 0, Word_compare_result.none : 0, Word_compare_result.wrong : 0}
         for key in per_cents.keys():
-            per_cents[key] = {Word_compare_result.equal:0.0,Word_compare_result.partial:0.0,Word_compare_result.none:0.0,Word_compare_result.wrong:0.0}
+            per_cents[key] = {Word_compare_result.equal : 0.0, Word_compare_result.partial : 0.0, Word_compare_result.none : 0.0, Word_compare_result.wrong : 0.0}
 
         new_lines = []
         new_lines.append(str1)
@@ -73,7 +73,7 @@ for prod in prods:
             img_path = image_dir_path + '/' + image_name
             img = cv2.imread(img_path)
             h, w = img.shape[:2]
-            result_conf = danila.text_recognize(img, size)
+            result_conf = danila.rama_text_recognize(img, size)
             result = {}
             if result_conf.detail.text == "no_rama":
                 result = {'result': 'no_rama'}
