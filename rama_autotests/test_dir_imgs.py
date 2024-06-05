@@ -8,7 +8,7 @@ prods = ['begickaya', 'ruzhimmash']
 for prod in prods:
     for size in sizes:
         v = 4
-        version = 'v184'
+        version = 'v195'
         dir_path = 'autotests_dataset/' + prod
         test_results = 'rama_autotests/results/' + version + '_' + prod + '_' + str(size) + '.txt'
         str1 = 'danila_' + version + '_' + prod
@@ -26,5 +26,5 @@ for prod in prods:
             img_path = image_dir_path + '/' + image_name
             img = cv2.imread(img_path)
             h, w = img.shape[:2]
-            res = danila.text_detect_cut(img, 512)
+            res = danila.rama_text_detect_cut(img, 512)
             cv2.imwrite(image_dir_res_path + '/' + image_name, res)

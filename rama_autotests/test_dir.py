@@ -8,7 +8,7 @@ prods = ['begickaya', 'ruzhimmash']
 for prod in prods:
     for size in sizes:
         v = 4
-        version = 'v184'
+        version = 'v197'
         dir_path = 'autotests_dataset/' + prod
         test_results = 'rama_autotests/results/' + version + '_' + prod + '_' + str(size) + '.txt'
         str1 = 'danila_' + version + '_' + prod
@@ -75,7 +75,7 @@ for prod in prods:
             h, w = img.shape[:2]
             result_conf = danila.rama_text_recognize(img, size)
             result = {}
-            if result_conf.detail.text == "no_rama":
+            if result_conf.prod is None:
                 result = {'result': 'no_rama'}
             else:
                 result['prod'] = result_conf.prod.text

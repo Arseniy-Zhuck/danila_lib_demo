@@ -1,0 +1,502 @@
+danila_v197_begickaya1. WhatsApp Image 2023-05-13 at 08.37.55.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312292", "conf": 0.94}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312292', 'year': '23'}
+label {'prod': '12', 'number': '312292', 'year': '23'}
+2. WhatsApp Image 2023-05-13 at 08.37.56 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312467", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312467', 'year': '23'}
+label {'prod': '12', 'number': '312467', 'year': '23'}
+3. WhatsApp Image 2023-05-13 at 08.37.56 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312062", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312062', 'year': '23'}
+label {'prod': '12', 'number': '312062', 'year': '23'}
+4. WhatsApp Image 2023-05-13 at 08.37.56 (3).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312518", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.93}}
+result {'prod': '12', 'number': '312518', 'year': '23'}
+label {'prod': '12', 'number': '312518', 'year': '23'}
+5. WhatsApp Image 2023-05-13 at 08.37.56.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "311679", "conf": 0.93}, "prod": {"text": "12", "conf": 0.37}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '311679', 'year': '23'}
+label {'prod': '12', 'number': '311679', 'year': '23'}
+6. WhatsApp Image 2023-05-15 at 14.28.12 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312474", "conf": 0.93}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312474', 'year': '23'}
+label {'prod': '12', 'number': '312474', 'year': '23'}
+7. WhatsApp Image 2023-05-15 at 14.28.13 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312483", "conf": 0.94}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312483', 'year': '23'}
+label {'prod': '12', 'number': '312483', 'year': '23'}
+8. WhatsApp Image 2023-05-15 at 14.28.13.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "311524", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '311524', 'year': '23'}
+label {'prod': '12', 'number': '311524', 'year': '23'}
+9. WhatsApp Image 2023-05-15 at 14.28.14 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312057", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.93}}
+result {'prod': '12', 'number': '312057', 'year': '23'}
+label {'prod': '12', 'number': '312057', 'year': '23'}
+10. WhatsApp Image 2023-05-15 at 14.28.14 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312466", "conf": 0.93}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312466', 'year': '23'}
+label {'prod': '12', 'number': '312466', 'year': '23'}
+11. WhatsApp Image 2023-05-15 at 14.28.16 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312368", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312368', 'year': '23'}
+label {'prod': '12', 'number': '312368', 'year': '23'}
+12. WhatsApp Image 2023-05-15 at 14.28.16.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "311864", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '311864', 'year': '23'}
+label {'prod': '12', 'number': '311864', 'year': '23'}
+13. WhatsApp Image 2023-05-15 at 14.28.17 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312062", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312062', 'year': '23'}
+label {'prod': '12', 'number': '312062', 'year': '23'}
+14. WhatsApp Image 2023-05-15 at 14.28.17 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312518", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.93}}
+result {'prod': '12', 'number': '312518', 'year': '23'}
+label {'prod': '12', 'number': '312518', 'year': '23'}
+15. WhatsApp Image 2023-05-15 at 14.28.17.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312467", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312467', 'year': '23'}
+label {'prod': '12', 'number': '312467', 'year': '23'}
+16. WhatsApp Image 2023-05-15 at 14.28.18 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312292", "conf": 0.94}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312292', 'year': '23'}
+label {'prod': '12', 'number': '312292', 'year': '23'}
+17. WhatsApp Image 2023-05-15 at 14.28.18.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312147", "conf": 0.94}, "prod": {"text": "12", "conf": 0.89}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312147', 'year': '23'}
+label {'prod': '12', 'number': '312147', 'year': '23'}
+18. WhatsApp Image 2023-05-15 at 14.28.19.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "311679", "conf": 0.93}, "prod": {"text": "12", "conf": 0.37}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '311679', 'year': '23'}
+label {'prod': '12', 'number': '311679', 'year': '23'}
+19. WhatsApp Image 2023-05-15 at 14.28.28 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312601", "conf": 0.93}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.92}}
+result {'prod': '12', 'number': '312601', 'year': '23'}
+label {'prod': '12', 'number': '312601', 'year': '23'}
+20. WhatsApp Image 2023-05-15 at 14.28.38.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312536", "conf": 0.91}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '312536', 'year': '23'}
+label {'prod': '12', 'number': '312536', 'year': '23'}
+21. WhatsApp Image 2023-05-15 at 14.28.39 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "311083", "conf": 0.93}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.92}}
+result {'prod': '12', 'number': '311083', 'year': '23'}
+label {'prod': '12', 'number': '311083', 'year': '23'}
+22. WhatsApp Image 2023-05-15 at 14.28.39.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312684", "conf": 0.92}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '312684', 'year': '23'}
+label {'prod': '12', 'number': '312684', 'year': '23'}
+23. WhatsApp Image 2023-05-15 at 14.28.40 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312309", "conf": 0.92}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '312309', 'year': '23'}
+label {'prod': '12', 'number': '312309', 'year': '23'}
+24. WhatsApp Image 2023-05-15 at 14.28.40 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312525", "conf": 0.94}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312525', 'year': '23'}
+label {'prod': '12', 'number': '312525', 'year': '23'}
+25. WhatsApp Image 2023-05-15 at 14.28.40.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312773", "conf": 0.91}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '312773', 'year': '23'}
+label {'prod': '12', 'number': '312773', 'year': '23'}
+26. WhatsApp Image 2023-05-15 at 14.28.41 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312609", "conf": 0.93}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.93}}
+result {'prod': '12', 'number': '312609', 'year': '23'}
+label {'prod': '12', 'number': '312609', 'year': '23'}
+27. WhatsApp Image 2023-05-15 at 14.28.41 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312729", "conf": 0.93}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '312729', 'year': '23'}
+label {'prod': '12', 'number': '312729', 'year': '23'}
+28. WhatsApp Image 2023-05-15 at 14.28.41.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "311318", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.9}}
+result {'prod': '12', 'number': '311318', 'year': '23'}
+label {'prod': '12', 'number': '311318', 'year': '23'}
+29. WhatsApp Image 2023-05-15 at 14.28.42 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312769", "conf": 0.92}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312769', 'year': '23'}
+label {'prod': '12', 'number': '312769', 'year': '23'}
+30. WhatsApp Image 2023-05-15 at 14.28.43 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312584", "conf": 0.92}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '312584', 'year': '23'}
+label {'prod': '12', 'number': '312584', 'year': '23'}
+31. WhatsApp Image 2023-05-15 at 14.28.43 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312579", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312579', 'year': '23'}
+label {'prod': '12', 'number': '312579', 'year': '23'}
+32. WhatsApp Image 2023-05-15 at 14.28.43.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312694", "conf": 0.93}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '312694', 'year': '23'}
+label {'prod': '12', 'number': '312694', 'year': '23'}
+33. WhatsApp Image 2023-05-15 at 14.28.44 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312514", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312514', 'year': '23'}
+label {'prod': '12', 'number': '312514', 'year': '23'}
+34. WhatsApp Image 2023-05-15 at 14.28.44.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312621", "conf": 0.92}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '312621', 'year': '23'}
+label {'prod': '12', 'number': '312621', 'year': '23'}
+35. WhatsApp Image 2023-05-15 at 14.28.45 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312666", "conf": 0.92}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '312666', 'year': '23'}
+label {'prod': '12', 'number': '312666', 'year': '23'}
+36. WhatsApp Image 2023-05-15 at 14.28.45 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312681", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312681', 'year': '23'}
+label {'prod': '12', 'number': '312681', 'year': '23'}
+37. WhatsApp Image 2023-05-15 at 14.28.45.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312147", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '312147', 'year': '23'}
+label {'prod': '12', 'number': '312147', 'year': '23'}
+38. WhatsApp Image 2023-05-15 at 14.28.46 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312877", "conf": 0.92}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.93}}
+result {'prod': '12', 'number': '312877', 'year': '23'}
+label {'prod': '12', 'number': '312877', 'year': '23'}
+39. WhatsApp Image 2023-05-15 at 14.28.46 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312879", "conf": 0.92}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.92}}
+result {'prod': '12', 'number': '312879', 'year': '23'}
+label {'prod': '12', 'number': '312879', 'year': '23'}
+40. WhatsApp Image 2023-05-15 at 14.28.46.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "309601", "conf": 0.93}, "prod": {"text": "12", "conf": 0.82}, "year": {"text": "23", "conf": 0.93}}
+result {'prod': '12', 'number': '309601', 'year': '23'}
+label {'prod': '12', 'number': '309601', 'year': '23'}
+41. WhatsApp Image 2023-05-15 at 14.39.11 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312474", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312474', 'year': '23'}
+label {'prod': '12', 'number': '312474', 'year': '23'}
+42. WhatsApp Image 2023-05-15 at 14.39.11 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "311324", "conf": 0.94}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '311324', 'year': '23'}
+label {'prod': '12', 'number': '311324', 'year': '23'}
+43. WhatsApp Image 2023-05-15 at 14.39.11 (3).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312302", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.92}}
+result {'prod': '12', 'number': '312302', 'year': '23'}
+label {'prod': '12', 'number': '312302', 'year': '23'}
+44. WhatsApp Image 2023-05-15 at 14.39.11 (4).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312765", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312765', 'year': '23'}
+label {'prod': '12', 'number': '312765', 'year': '23'}
+45. WhatsApp Image 2023-05-15 at 14.39.11.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312501", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312501', 'year': '23'}
+label {'prod': '12', 'number': '312501', 'year': '23'}
+46. WhatsApp Image 2023-05-15 at 14.39.12.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "311792", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '311792', 'year': '23'}
+label {'prod': '12', 'number': '311792', 'year': '23'}
+47. WhatsApp Image 2023-05-16 at 08.08.29 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312770", "conf": 0.93}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312770', 'year': '23'}
+label {'prod': '12', 'number': '312770', 'year': '23'}
+48. WhatsApp Image 2023-05-16 at 15.22.22.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312687", "conf": 0.92}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.92}}
+result {'prod': '12', 'number': '312687', 'year': '23'}
+label {'prod': '12', 'number': '312687', 'year': '23'}
+49. WhatsApp Image 2023-05-16 at 15.22.23.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312242", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.93}}
+result {'prod': '12', 'number': '312242', 'year': '23'}
+label {'prod': '12', 'number': '312242', 'year': '23'}
+50. WhatsApp Image 2023-05-16 at 15.22.24.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312423", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312423', 'year': '23'}
+label {'prod': '12', 'number': '312423', 'year': '23'}
+51. WhatsApp Image 2023-05-20 at 09.34.51.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312992", "conf": 0.91}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '312992', 'year': '23'}
+label {'prod': '12', 'number': '312992', 'year': '23'}
+52. WhatsApp Image 2023-05-20 at 09.34.52 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313210", "conf": 0.93}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313210', 'year': '23'}
+label {'prod': '12', 'number': '313210', 'year': '23'}
+53. WhatsApp Image 2023-05-20 at 09.34.52.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313183", "conf": 0.88}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313183', 'year': '23'}
+label {'prod': '12', 'number': '313183', 'year': '23'}
+54. WhatsApp Image 2023-05-20 at 09.34.53 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313257", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313257', 'year': '23'}
+label {'prod': '12', 'number': '313257', 'year': '23'}
+55. WhatsApp Image 2023-05-20 at 09.34.53.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313296", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313296', 'year': '23'}
+label {'prod': '12', 'number': '313296', 'year': '23'}
+56. WhatsApp Image 2023-05-20 at 09.34.54.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313271", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.92}}
+result {'prod': '12', 'number': '313271', 'year': '23'}
+label {'prod': '12', 'number': '313271', 'year': '23'}
+57. WhatsApp Image 2023-05-20 at 09.35.02.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313385", "conf": 0.94}, "prod": {"text": "12", "conf": 0.91}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313385', 'year': '23'}
+label {'prod': '12', 'number': '313385', 'year': '23'}
+58. WhatsApp Image 2023-05-20 at 09.35.03 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313113", "conf": 0.94}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313113', 'year': '23'}
+label {'prod': '12', 'number': '313113', 'year': '23'}
+59. WhatsApp Image 2023-05-20 at 09.35.04 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313406", "conf": 0.93}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.92}}
+result {'prod': '12', 'number': '313406', 'year': '23'}
+label {'prod': '12', 'number': '313406', 'year': '23'}
+60. WhatsApp Image 2023-05-20 at 09.35.04 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313396", "conf": 0.9}, "prod": {"text": "12", "conf": 0.92}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313396', 'year': '23'}
+label {'prod': '12', 'number': '313396', 'year': '23'}
+61. WhatsApp Image 2023-05-20 at 09.35.05.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313266", "conf": 0.94}, "prod": {"text": "12", "conf": 0.92}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313266', 'year': '23'}
+label {'prod': '12', 'number': '313266', 'year': '23'}
+62. WhatsApp Image 2023-05-20 at 09.35.06 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312795", "conf": 0.93}, "prod": {"text": "12", "conf": 0.93}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312795', 'year': '23'}
+label {'prod': '12', 'number': '312795', 'year': '23'}
+63. WhatsApp Image 2023-05-20 at 09.35.07 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313402", "conf": 0.92}, "prod": {"text": "12", "conf": 0.91}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313402', 'year': '23'}
+label {'prod': '12', 'number': '313402', 'year': '23'}
+64. WhatsApp Image 2023-05-20 at 13.49.39 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313156", "conf": 0.92}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.92}}
+result {'prod': '12', 'number': '313156', 'year': '23'}
+label {'prod': '12', 'number': '313156', 'year': '23'}
+65. WhatsApp Image 2023-05-20 at 13.49.39 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312702", "conf": 0.91}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.93}}
+result {'prod': '12', 'number': '312702', 'year': '23'}
+label {'prod': '12', 'number': '312702', 'year': '23'}
+66. WhatsApp Image 2023-05-20 at 13.49.39 (3).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313445", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313445', 'year': '23'}
+label {'prod': '12', 'number': '313445', 'year': '23'}
+67. WhatsApp Image 2023-05-20 at 13.49.39.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313125", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313125', 'year': '23'}
+label {'prod': '12', 'number': '313125', 'year': '23'}
+68. WhatsApp Image 2023-05-20 at 13.49.40 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313383", "conf": 0.94}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313383', 'year': '23'}
+label {'prod': '12', 'number': '313383', 'year': '23'}
+69. WhatsApp Image 2023-05-20 at 13.49.40 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313150", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313150', 'year': '23'}
+label {'prod': '12', 'number': '313150', 'year': '23'}
+70. WhatsApp Image 2023-05-20 at 13.49.40.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313178", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313178', 'year': '23'}
+label {'prod': '12', 'number': '313178', 'year': '23'}
+71. WhatsApp Image 2023-05-20 at 13.49.41.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313283", "conf": 0.91}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.93}}
+result {'prod': '12', 'number': '313283', 'year': '23'}
+label {'prod': '12', 'number': '313283', 'year': '23'}
+72. WhatsApp Image 2023-05-23 at 07.33.51 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313052", "conf": 0.95}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313052', 'year': '23'}
+label {'prod': '12', 'number': '313052', 'year': '23'}
+73. WhatsApp Image 2023-05-23 at 07.33.51 (4).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313051", "conf": 0.93}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.91}}
+result {'prod': '12', 'number': '313051', 'year': '23'}
+label {'prod': '12', 'number': '313051', 'year': '23'}
+74. WhatsApp Image 2023-05-23 at 07.33.52 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313392", "conf": 0.93}, "prod": {"text": "12", "conf": 0.93}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313392', 'year': '23'}
+label {'prod': '12', 'number': '313392', 'year': '23'}
+75. WhatsApp Image 2023-05-23 at 07.33.52 (3).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313049", "conf": 0.93}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313049', 'year': '23'}
+label {'prod': '12', 'number': '313049', 'year': '23'}
+76. WhatsApp Image 2023-05-23 at 07.33.53 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313408", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313408', 'year': '23'}
+label {'prod': '12', 'number': '313408', 'year': '23'}
+77. WhatsApp Image 2023-05-23 at 07.33.54 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312925", "conf": 0.94}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312925', 'year': '23'}
+label {'prod': '12', 'number': '312925', 'year': '23'}
+78. WhatsApp Image 2023-05-23 at 07.33.55 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313371", "conf": 0.93}, "prod": {"text": "12", "conf": 0.89}, "year": {"text": "23", "conf": 0.91}}
+result {'prod': '12', 'number': '313371', 'year': '23'}
+label {'prod': '12', 'number': '313371', 'year': '23'}
+79. WhatsApp Image 2023-05-23 at 07.33.55 (3).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313355", "conf": 0.95}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313355', 'year': '23'}
+label {'prod': '12', 'number': '313355', 'year': '23'}
+80. WhatsApp Image 2023-05-23 at 07.33.57 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313088", "conf": 0.94}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313088', 'year': '23'}
+label {'prod': '12', 'number': '313088', 'year': '23'}
+81. WhatsApp Image 2023-05-23 at 07.34.00 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313217", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.96}}
+result {'prod': '12', 'number': '313217', 'year': '23'}
+label {'prod': '12', 'number': '313217', 'year': '23'}
+82. WhatsApp Image 2023-05-23 at 07.34.00 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313507", "conf": 0.94}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313507', 'year': '23'}
+label {'prod': '12', 'number': '313507', 'year': '23'}
+83. WhatsApp Image 2023-05-23 at 07.34.00.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313522", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313522', 'year': '23'}
+label {'prod': '12', 'number': '313522', 'year': '23'}
+84. WhatsApp Image 2023-05-23 at 07.34.01 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313475", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313475', 'year': '23'}
+label {'prod': '12', 'number': '313475', 'year': '23'}
+85. WhatsApp Image 2023-05-23 at 07.34.01 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313335", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313335', 'year': '23'}
+label {'prod': '12', 'number': '313335', 'year': '23'}
+86. WhatsApp Image 2023-05-23 at 07.34.01 (3).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313513", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313513', 'year': '23'}
+label {'prod': '12', 'number': '313513', 'year': '23'}
+87. WhatsApp Image 2023-05-23 at 07.34.01.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313558", "conf": 0.93}, "prod": {"text": "12", "conf": 0.93}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313558', 'year': '23'}
+label {'prod': '12', 'number': '313558', 'year': '23'}
+88. WhatsApp Image 2023-05-23 at 07.34.15 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313028", "conf": 0.92}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.91}}
+result {'prod': '12', 'number': '313028', 'year': '23'}
+label {'prod': '12', 'number': '313028', 'year': '23'}
+89. WhatsApp Image 2023-05-23 at 07.34.15 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313316", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313316', 'year': '23'}
+label {'prod': '12', 'number': '313316', 'year': '23'}
+90. WhatsApp Image 2023-05-23 at 07.34.15.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313324", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.93}}
+result {'prod': '12', 'number': '313324', 'year': '23'}
+label {'prod': '12', 'number': '313324', 'year': '23'}
+91. WhatsApp Image 2023-05-23 at 07.34.16 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313200", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.96}}
+result {'prod': '12', 'number': '313200', 'year': '23'}
+label {'prod': '12', 'number': '313200', 'year': '23'}
+92. WhatsApp Image 2023-05-23 at 07.34.16 (2).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312997", "conf": 0.92}, "prod": {"text": "12", "conf": 0.94}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312997', 'year': '23'}
+label {'prod': '12', 'number': '312997', 'year': '23'}
+93. WhatsApp Image 2023-05-23 at 07.34.16.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313342", "conf": 0.92}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.88}}
+result {'prod': '12', 'number': '313342', 'year': '23'}
+label {'prod': '12', 'number': '313342', 'year': '23'}
+94. WhatsApp Image 2023-05-23 at 07.34.17 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313319", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.89}}
+result {'prod': '12', 'number': '313319', 'year': '23'}
+label {'prod': '12', 'number': '313319', 'year': '23'}
+95. WhatsApp Image 2023-05-23 at 07.34.17.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312933", "conf": 0.94}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312933', 'year': '23'}
+label {'prod': '12', 'number': '312933', 'year': '23'}
+96. WhatsApp Image 2023-05-23 at 07.34.18.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312935", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.92}}
+result {'prod': '12', 'number': '312935', 'year': '23'}
+label {'prod': '12', 'number': '312935', 'year': '23'}
+97. WhatsApp Image 2023-05-23 at 07.34.19 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "312602", "conf": 0.93}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '312602', 'year': '23'}
+label {'prod': '12', 'number': '312602', 'year': '23'}
+98. WhatsApp Image 2023-05-23 at 07.34.19.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313063", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.94}}
+result {'prod': '12', 'number': '313063', 'year': '23'}
+label {'prod': '12', 'number': '313063', 'year': '23'}
+99. WhatsApp Image 2023-05-24 at 06.31.02 (1).jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313665", "conf": 0.93}, "prod": {"text": "12", "conf": 0.95}, "year": {"text": "23", "conf": 0.93}}
+result {'prod': '12', 'number': '313665', 'year': '23'}
+label {'prod': '12', 'number': '313665', 'year': '23'}
+100. WhatsApp Image 2023-05-24 at 06.31.02.jpeg
+res{'whole': <Word_compare_result.equal: 3>, 'number': <Word_compare_result.equal: 3>, 'prod': <Word_compare_result.equal: 3>, 'year': <Word_compare_result.equal: 3>}
+conf{"detail": {"text": "rama", "conf": 1}, "number": {"text": "313631", "conf": 0.93}, "prod": {"text": "12", "conf": 0.96}, "year": {"text": "23", "conf": 0.95}}
+result {'prod': '12', 'number': '313631', 'year': '23'}
+label {'prod': '12', 'number': '313631', 'year': '23'}
+{'whole': {<Word_compare_result.equal: 3>: 100, <Word_compare_result.partial: 2>: 0, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}, 'number': {<Word_compare_result.equal: 3>: 100, <Word_compare_result.partial: 2>: 0, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}, 'year': {<Word_compare_result.equal: 3>: 100, <Word_compare_result.partial: 2>: 0, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}, 'prod': {<Word_compare_result.equal: 3>: 100, <Word_compare_result.partial: 2>: 0, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 0}}
+{'whole': {<Word_compare_result.equal: 3>: 100.0, <Word_compare_result.partial: 2>: 0.0, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}, 'number': {<Word_compare_result.equal: 3>: 100.0, <Word_compare_result.partial: 2>: 0.0, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}, 'year': {<Word_compare_result.equal: 3>: 100.0, <Word_compare_result.partial: 2>: 0.0, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}, 'prod': {<Word_compare_result.equal: 3>: 100.0, <Word_compare_result.partial: 2>: 0.0, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 0.0}}
