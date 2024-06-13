@@ -16,7 +16,7 @@ from data.result.word_compare_result import Word_compare_result
 dir_path = 'vagon_autotest_dataset/'
 label_path = dir_path + 'labels.txt'
 image_dir_path = dir_path + 'images'
-test_results = 'vagon_autotest/tests_results/198_vagons.txt'
+test_results = 'vagon_autotest/tests_results/213_vagons.txt'
 
 # useful addresses
 image_dir = os.listdir(image_dir_path)
@@ -60,12 +60,6 @@ for image_name in image_dir:
     else:
         result_text = result.number.text
     label_text = data[image_name]
-    print(image_name)
-    print(result_text + ' - ' + label_text)
-    new_lines.append(str(n) + '. ' + image_name)
-    new_lines.append('\n')
-    new_lines.append(result_text + ' - ' + label_text)
-    new_lines.append('\n')
     # if len(img_letters.letters) == len(label_letters.letters):
     #     flag = True
     #     for i in range(0, len(label_letters.letters)):
@@ -74,6 +68,13 @@ for image_name in image_dir:
     # else:
     #     print(False)
     compare_result = compare(result_text,label_text)
+    if compare_result != Word_compare_result.equal:
+        print(str(n) + '. ' + image_name)
+        print(result_text + ' - ' + label_text)
+        new_lines.append(str(n) + '. ' + image_name)
+        new_lines.append('\n')
+        new_lines.append(result_text + ' - ' + label_text)
+        new_lines.append('\n')
     counts[compare_result] += 1
 print(counts)
 new_lines.append(str(counts))
