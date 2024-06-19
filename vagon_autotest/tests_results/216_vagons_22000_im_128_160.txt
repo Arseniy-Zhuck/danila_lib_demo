@@ -1,0 +1,22 @@
+3. 02c43994-53645238.jpeg
+5334523 - 53645230
+5. 04a2e258-51649812.JPG
+564902 - 51649812
+7. 0b0a19fb-59445031.jpg
+54567 - 59445031
+13. 0e4062c2-51133254.JPG
+51133294 - 51133254
+21. 1b9b05e9-51702041.jpg
+5172041 - 51702041
+30. 1ff6f210-51174209.jpg
+5117409 - 51174209
+31. 2a761773-52276631.jpg
+5227663 - 52276631
+33. 2bcb667d-51755130.jpeg
+5175513 - 51755130
+38. 2dd6bf5c-61880639.JPG
+61880630 - 61880639
+52. 3e2e5c72-61218657.JPG
+6121857 - 61218657
+{<Word_compare_result.equal: 3>: 45, <Word_compare_result.partial: 2>: 7, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 3}
+{<Word_compare_result.equal: 3>: 81.8, <Word_compare_result.partial: 2>: 12.7, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 5.5}
