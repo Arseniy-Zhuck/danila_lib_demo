@@ -16,7 +16,7 @@ from data.result.word_compare_result import Word_compare_result
 dir_path = 'vagon_autotest_dataset/'
 label_path = dir_path + 'labels.txt'
 image_dir_path = dir_path + 'images'
-danila = Danila(5, 'yolov5')
+danila = Danila(8, 'yolov5')
 
 
 # useful addresses
@@ -47,7 +47,7 @@ with open(label_path) as f:
 new_new_lines = []
 for size_h in [32, 64, 96, 128, 160, 192, 224, 256, 288, 320, 352, 384]:
     for size_w in [32, 64, 96, 128, 160, 192, 224, 256, 288, 320, 352, 384]:
-        test_results = 'vagon_autotest/tests_results/216_vagons_22000_im' + '_' +str(size_h) + '_' + str(size_w) + '.txt'
+        test_results = 'vagon_autotest/tests_results/217_vagons_det_incr_7000_im' + '_' +str(size_h) + '_' + str(size_w) + '.txt'
         counts = {Word_compare_result.equal:0,Word_compare_result.partial:0,Word_compare_result.none:0,Word_compare_result.wrong:0}
         per_cents = {Word_compare_result.equal:0.0,Word_compare_result.partial:0.0,Word_compare_result.none:0.0,Word_compare_result.wrong:0.0}
         new_lines = []
@@ -95,7 +95,7 @@ for size_h in [32, 64, 96, 128, 160, 192, 224, 256, 288, 320, 352, 384]:
         new_new_lines.append('\n')
         with open(test_results, "w") as new_f:
             new_f.writelines(new_lines)
-test_results = 'vagon_autotest/tests_results/216_vagons_22000_im_all_sizes.txt'
+test_results = 'vagon_autotest/tests_results/217_vagons_det_incr_7000_im_all_sizes.txt'
 with open(test_results, "w") as new_f:
     new_f.writelines(new_new_lines)
 
