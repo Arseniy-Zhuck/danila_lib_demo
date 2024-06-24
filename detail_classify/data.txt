@@ -1,0 +1,1 @@
+"{\"detail\": {\"text\": \"rama\", \"conf\": 1.0}, \"number\": null, \"prod\": {\"text\": \"12\", \"conf\": 0.95}, \"year\": null}"

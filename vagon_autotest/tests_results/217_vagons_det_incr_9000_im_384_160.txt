@@ -1,0 +1,12 @@
+3. 02c43994-53645238.jpeg
+556452 - 53645230
+7. 0b0a19fb-59445031.jpg
+45037 - 59445031
+13. 0e4062c2-51133254.JPG
+51133355 - 51133254
+31. 2a761773-52276631.jpg
+5227663 - 52276631
+36. 2d74baf2-51367712.jpg
+51367741 - 51367712
+{<Word_compare_result.equal: 3>: 50, <Word_compare_result.partial: 2>: 4, <Word_compare_result.none: 0>: 0, <Word_compare_result.wrong: 1>: 1}
+{<Word_compare_result.equal: 3>: 90.9, <Word_compare_result.partial: 2>: 7.3, <Word_compare_result.none: 0>: 0.0, <Word_compare_result.wrong: 1>: 1.7999999999999998}
